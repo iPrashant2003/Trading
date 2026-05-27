@@ -18,30 +18,11 @@ The platform aims to provide a seamless trading experience with a responsive int
 - RESTful API Communication
 - ESLint Integration for Code Quality
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- ESLint
-
-### Backend
-- Node.js / Express.js *(Update if different)*
-- REST API
-
-### Database
-- MongoDB / MySQL *(Update according to your project)*
-
----
+--
 
 ## 📂 Project Structure
 
-```bash
+bash
 Trading/
 │
 ├── frontend/
@@ -60,7 +41,6 @@ Trading/
 │   └── package.json
 │
 └── README.md
-```
 
 ---
 
